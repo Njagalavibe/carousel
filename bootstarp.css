@@ -1,0 +1,32 @@
+.carousel-item {
+    color: white;
+    height:50rem;
+    background:#777;
+    background-position: center;
+    background-size: cover;
+
+  }
+.container{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding-bottom: 50px;
+}
+.overlay-image {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-position: center;
+    background-size: cover;
+
+}
+.bongo{
+    color: rgb(14, 129, 229);
+}
+
+
+.container-fluid{
+    display: inline-block;
+}
